@@ -9,4 +9,8 @@
 ### WordCloud on review
 <img src="analysis_images/wordcloud.png" width = "600" height = "400">
 
+### Analyzed Review result
+<img src="analysis_images/Review_analysed.png" width = "600" height = "400">
+
+
 ### Thank You for visiting us Upflairs pvt. ltd. jaipur Rajasthan.
